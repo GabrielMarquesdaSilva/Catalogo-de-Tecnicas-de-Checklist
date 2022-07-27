@@ -8,8 +8,8 @@
 de qualidade dos jogos. 
 
 ## Aplicabilidade
-  *  Para avaliação da aplicabilidade, o checklist foi aplicado em dois jogos educacionais, escolhidos 
-aleatoriamente, o primeiro jogo Brain Out – Can you pass it?, o segundo jogo Central Hospital Stories. 
+  * Para avaliação da aplicabilidade, o checklist foi aplicado em dois jogos educacionais, escolhidos 
+aleatoriamente, o primeiro jogo Brain Out–Can you pass it?, o segundo jogo Central Hospital Stories. 
  
  ## Resultados
 Após análise do primeiro jogo foram identificados alguns problemas, listados da seguinte forma: 54,43% grande número 
