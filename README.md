@@ -25,7 +25,7 @@ ele orienta explicitamente o inspetor na busca por defeitos, e por conta de suas
 # Técnicas de Checklist 
 ### Tipo de Artefato Inspecionado
  - [Modelos de Processo](https://github.com/GabrielMarquesdaSilva/Catalogo-de-Tecnicas-de-Checklist/blob/main/Modelos%20de%20Processo.md)
- - Requisitos, Casos de Uso e Cenários
+ - [Requisitos, Casos de Uso e Cenários](https://github.com/GabrielMarquesdaSilva/Catalogo-de-Tecnicas-de-Checklist/blob/main/Requisitos%2C%20Casos%20de%20Uso%20e%20Cen%C3%A1rios.md)
  - Modelos de Produto
  - Usabilidade
  - Design e Arquitetura
