@@ -1,4 +1,4 @@
-# Checklist para usabilidade de aplicativos móveis
+# Checklist para usabilidade de aplicativos eletrônicos
 
 ## Apresentação
  *  A técnica apresentada em [von Wangenheim et al., 2016] ressalta a importância de medir a usabilidade e orientação no 
