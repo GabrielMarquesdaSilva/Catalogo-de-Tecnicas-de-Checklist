@@ -3,14 +3,8 @@
 
 ## O que é inspeção de software
 
-Inspeção de software, também conhecida como revisão técnica, é um processo estático de
-verificação e validação, que permite que sejam detectados defeitos em artefatos do projeto,
-como anomalias, erros e desvios de padrões ou especificações do software, contribuindo para
-o aumento da produtividade dos desenvolvedores e redução de falhas na execução. Através
-das inspeções, os defeitos podem ser identificados nos estágios iniciais do desenvolvimento,
-evitando assim um retrabalho na construção do software quando corrigidos de forma imediata. 
-Esta prática é considerada uma das mais eficazes dentro de engenharia de software na
-garantia de qualidade.
+ Inspeção de software, também conhecida como revisão técnica, é um processo estático
+de verificação e validação [Ebad, 2017], que permite que sejam detectados defeitos em artefatos do projeto, como anomalias, erros e desvios de padrões ou especificações do software, contribuindo para o aumento da produtividade dos desenvolvedores e redução de falhas na execução [Macchi and Solari, 2012]. Através das inspeções, os defeitos podem ser identificados nos estágios iniciais do desenvolvimento, evitando assim um retrabalho na construção do software quando corrigidos de forma imediata [de Mello et al., 2014]. Esta prática é considerada uma das mais eficazes dentro de engenharia de software na garantia de qualidade [McMeekin et al., 2009b].
 
 ## Técncias de Inspeção de Software 
 
@@ -18,7 +12,7 @@ Existem diversos tipos de técnicas de inspeção: baseadas em checklist, basead
 
 # Inspeções de Software baseadas em  checklist
 
-Em técnicas de inspeção de software baseadas em Checklist, o revisor tem uma lista de perguntas sobre os artefatos inspecionados. Uma resposta sim à pergunta significa que não há defeito, e a resposta não, em contrapartida, significa que pode haver um defeito e que é necessária uma inspeção adicional. Uma vantagem deste método é que ele orienta explicitamente o inspetor na busca por defeitos, e por conta de suas instruções claras, é muito útil para desenvolvedores novatos.
+Em técnicas de inspeção de software baseadas em Checklist, o revisor tem uma lista de perguntas sobre os artefatos inspecionados. Uma resposta sim à pergunta significa que não há defeito, e a resposta não, em contrapartida, significa que pode haver um defeito e que é necessária uma inspeção adicional. Uma vantagem deste método é que ele orienta explicitamente o inspetor na busca por defeitos, e por conta de suas instruções claras, é muito útil para desenvolvedores novatos [McMeekin et al., 2009a].
 
 # Técncias de Inspeção de Software baseadas em checklist
 
