@@ -16,7 +16,7 @@ garantia de qualidade.
 
 * Existem diversos tipos de técnicas de inspeção: baseadas em checklist, baseadas em cenários, baseadas em perspectivas, ad-hoc, entre outras, sendo esta última uma técnica mais simples, em que os inspetores não seguem orientações específicas sobre como proceder. Os benefícios das inspeções consistem em aprimorar a produtividade do novo produto, melhorar a comunicação entre os especialistas e usuários e diminuir o esforço econômico.
 
-# Inspeções de Software baseadas em  checklist
+## Inspeções de Software baseadas em  checklist
 
 * Em técnicas de inspeção de software baseadas em Checklist, o revisor tem uma lista de perguntas sobre os artefatos inspecionados. Uma resposta sim à pergunta significa 
 que não há defeito, e a resposta não, em contrapartida, significa que pode haver um defeito e que é necessária uma inspeção adicional. Uma vantagem deste método é que 
@@ -29,3 +29,7 @@ ele orienta explicitamente o inspetor na busca por defeitos, e por conta de suas
  - [Modelos de Produto](https://github.com/GabrielMarquesdaSilva/Catalogo-de-Tecnicas-de-Checklist/blob/main/Modelos%20de%20Produto.md)
  - [Usabilidade](https://github.com/GabrielMarquesdaSilva/Catalogo-de-Tecnicas-de-Checklist/blob/main/Usabilidade.md)
  - [Design e Arquitetura](https://github.com/GabrielMarquesdaSilva/Catalogo-de-Tecnicas-de-Checklist/blob/main/Design%20e%20Arquitetura.md)
+ 
+ # Repositório para Técnicas
+  - Acesse o link para adicionar artigos: https://forms.gle/cfUTJuwm6zfsJwEeA
+ 
