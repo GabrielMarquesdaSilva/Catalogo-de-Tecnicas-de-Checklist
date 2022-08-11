@@ -6,7 +6,7 @@
 ## Características 
   *  Suas principais características são as possibilidades de configurações para diferentes projetos de software, e a capacidade de tratar diferentes níveis de detalhamento dos diagramas de atividades nos projetos relacionados, incluindo a precaução na cobertura de diferentes conceitos que envolvem um diagrama de atividades.
 
-## Aplicabilidade
+## Avaliações
   *  Para avaliação da aplicabilidade, foi realizada uma prova de conceito, usando especificações de requisitos de software baseados em workflow científico. A relação de especificações foi extraída de uma pesquisa realizada em um projeto da COPPE/UFRJ, aplicada a problemas na extração de petróleo em grandes profundidades. Nos meses de novembro e dezembro de 2010, foi conduzido um estudo experimental in vitro.
  
  ## Resultados
