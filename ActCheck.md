@@ -25,7 +25,7 @@ requirements specification. In 2010 Brazilian Symposium on Software Engineering,
 
 https://doi.org/10.1109/SBES.2010.29
 
-de Mello, R. M., Massollar, J. L., and Travassos, G. H. (2011). Técnica de inspeção baseada em
+* de Mello, R. M., Massollar, J. L., and Travassos, G. H. (2011). Técnica de inspeção baseada em
 checklist para identificação de defeitos em diagramas de atividades. In Anais do X Simpósio
 Brasileiro de Qualidade de Software, pages 119–133. SBC. 5, 27
 
