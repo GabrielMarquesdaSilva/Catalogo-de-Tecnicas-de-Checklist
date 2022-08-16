@@ -30,7 +30,7 @@ contribui para detecção de defeito.
 
 ## Artigos apresentados
 
-Geraldi, R. T., Oliveira Jr, E., Conte, T., and Steinmacher, I. (2015). Checklist-based inspection of smarty variability models. In Proceedings of the 17th International Conference on
+Geraldi, R. T., Oliveira Jr, E., Conte, T., and Steinmacher, I. (2015). Checklist-based inspection of smarty variability models. In Proceedings of the 17th International Conference on
 Enterprise Information Systems-Volume 2, pages 268–276
 
 
