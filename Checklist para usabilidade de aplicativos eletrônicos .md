@@ -10,7 +10,7 @@ usuários e, dessa forma, proporcionar uma melhor interação.
 em forma de um checklist, para auxiliar no desenvolvimento de aplicativos móveis e avaliação 
 de usabilidade do software. 
 
-## Aplicabilidade
+## Avaliações
   *  Para estudo da aplicabilidade foram adotadas 3 etapas, a primeira a 
 elaboração de uma revisão sistemática da literatura para heurísticas de usabilidade sobre 
 dispositivos móveis. A segunda etapa contemplou o desenvolvimento do checklist para mensurar 
